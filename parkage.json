@@ -1,0 +1,15 @@
+{
+    "name": "1_into_to_node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon intro.is"
+    
+    },
+    "author": "MINH NGUYEN",
+    "lisense":"College",
+    "dependencies": {
+        "nodemon":"^2.0.15"
+    }
+    
+}
